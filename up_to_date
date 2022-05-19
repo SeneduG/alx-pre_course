@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 echo up_to_date >> up_to_date
+=======
+echo 'up_to_date' >> up_to_date
+>>>>>>> 768f15570b265e5f9c77041e39b03b7a6a7466f6
